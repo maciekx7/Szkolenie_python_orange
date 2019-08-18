@@ -1,0 +1,12 @@
+print("Hello, world!")
+print(type('Hello, world!'))
+
+firma = 'Orange'
+kraj = 'Polska'
+numer = 1
+
+print(firma)
+
+print(firma + ' ' + kraj + ', siec #' + str(numer))
+
+print(firma, kraj,  'siec #', str(numer))
